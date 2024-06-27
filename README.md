@@ -40,7 +40,7 @@ This project processes a CSV file containing machine fault data and generates an
 2. Run the script:
 
     ```sh
-    python process_faults.py
+    python main.py
     ```
 
 3. The script will generate an Excel file named `faults_per_machine.xlsx` in the project directory.
